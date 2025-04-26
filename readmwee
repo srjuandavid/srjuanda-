@@ -1,0 +1,15 @@
+# Gota.io Chat Mod
+
+Este proyecto proporciona un mod para Gota.io que mejora el chat con fuentes estilizadas y estilos visuales personalizados.
+
+## Archivos
+- `core.js`: Añade un selector de fuentes al chat y muestra un banner de confirmación.
+- `styles.css`: Estilos para el selector y el banner.
+
+## Uso
+1. Instala el userscript en Tampermonkey.
+2. Asegúrate de que los archivos estén alojados en un servidor accesible (como GitHub).
+3. Entra a https://gota.io/web/ y disfruta.
+
+## Créditos
+Creado por [tu-nombre].
