@@ -1,0 +1,16 @@
+/* styles.css */
+#font-selector {
+  border: 2px solid lime;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+}
+
+#font-selector option {
+  background-color: #1a1a1a;
+  color: lime;
+}
+
+div[style*="Gota.io Mod"] {
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
